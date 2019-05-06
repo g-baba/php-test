@@ -1,5 +1,5 @@
 <?
-echo 'phpのテストです。<br>';
+echo 'Test with php and Postgre on heroke<br>';
 
 $dbinfo = parse_url(getenv('DATABASE_URL'));
 
